@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <ImageView
+       android:layout_width="350dp"
+       android:layout_height="100dp"
+       android:src="@drawable/searchbar" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="350dp"
+       android:layout_marginTop="20dp"
+       android:src="@drawable/vip" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="30dp"
+       android:layout_marginTop="120dp"
+       android:src="@drawable/pdftools" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="120dp"
+       android:layout_marginTop="120dp"
+       android:src="@drawable/scanidcard" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="200dp"
+       android:layout_marginTop="120dp"
+       android:src="@drawable/scanidcard" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="300dp"
+       android:layout_marginTop="120dp"
+       android:src="@drawable/importpicture" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="30dp"
+       android:layout_marginTop="200dp"
+       android:src="@drawable/idphoto" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="120dp"
+       android:layout_marginTop="200dp"
+       android:src="@drawable/importpicture" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="200dp"
+       android:layout_marginTop="200dp"
+       android:src="@drawable/toexcel" />
+
+   <ImageView
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+       android:layout_marginLeft="300dp"
+       android:layout_marginTop="200dp"
+       android:src="@drawable/all" />
+
+   <ImageView
+       android:layout_width="1000dp"
+       android:layout_height="50dp"
+       android:layout_marginTop="290dp"
+       android:src="@drawable/searchbar2" />
+
+   <ImageView
+       android:layout_width="500dp"
+       android:layout_height="300dp"
+       android:layout_marginTop="280dp"
+       android:src="@drawable/background" />
+
+   <ImageView
+       android:layout_width="100dp"
+       android:layout_height="300dp"
+       android:layout_marginTop="650dp"
+       android:src="@drawable/home" />
+
+   <ImageView
+       android:layout_width="100dp"
+       android:layout_height="300dp"
+       android:layout_marginTop="650dp"
+       android:layout_marginLeft="100dp"
+       android:src="@drawable/docs" />
+
+   <ImageView
+       android:layout_width="100dp"
+       android:layout_height="300dp"
+       android:layout_marginTop="630dp"
+       android:layout_marginLeft="180dp"
+       android:src="@drawable/photo" />
+
+   <ImageView
+       android:layout_width="200dp"
+       android:layout_height="300dp"
+       android:layout_marginTop="650dp"
+       android:layout_marginLeft="250dp"
+       android:src="@drawable/application" />
+
+   <ImageView
+       android:layout_width="200dp"
+       android:layout_height="300dp"
+       android:layout_marginTop="650dp"
+       android:layout_marginLeft="360dp"
+       android:src="@drawable/mine" />
+
+</RelativeLayout>
